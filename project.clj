@@ -1,9 +1,9 @@
-(defproject cljs-http "0.1.47-SNAPSHOT"
+(defproject org.clojars.nuclearkev/cljs-http "0.1.47-SNAPSHOT"
   :description "A ClojureScript HTTP library."
-  :url "https://github.com/r0man/cljs-http"
+  :url "https://github.com/skedlife/cljs-http"
   :license {:name "Eclipse Public License"
             :url "https://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[noencore "0.3.7"]
+  :dependencies [[org.clojars.nuclearkev/noencore "0.3.8-SNAPSHOT"]
                  [org.clojure/clojure "1.9.0"]
                  [org.clojure/clojurescript "1.10.238" :scope "provided"]
                  [org.clojure/core.async "0.4.474"]
